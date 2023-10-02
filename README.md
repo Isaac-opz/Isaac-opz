@@ -1,8 +1,6 @@
 # Isaac Piedrahita 💻
 
-[comment]:[![guayahack](https://img.shields.io/badge/member-guayahack-fedcba?style=plastic&logo=gitlab&labelColor=%23132854)](https://guayahack.co)
-
-- 🌱 Currently learning JS
+[comment]:![guayahack](https://img.shields.io/badge/member-guayahack-fedcba?style=plastic&logo=gitlab&labelColor=%23132854)](https://guayahack.co)
 
 [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac-opz&theme=blue_navy)]
 
