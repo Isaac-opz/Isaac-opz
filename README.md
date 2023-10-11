@@ -11,6 +11,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tvfqxpegx1orec5b7zerctd36&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=tvfqxpegx1orec5b7zerctd36&redirect=true)
 
 `Setup:`
+
+
 ![machine](https://i.ibb.co/LJYwTvh/Screenshot-from-2023-10-10-23-28-55.png)
 
 <!---
