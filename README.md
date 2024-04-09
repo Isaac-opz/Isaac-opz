@@ -6,7 +6,7 @@ Hello! My name is Isaac, and I want to take a moment to appreciate you for visit
 
 I'm a passionate tech enthusiast who loves exploring new technologies and pushing the boundaries of what's possible in the world of coding and tech. I believe that continuous learning and growth are essential in this ever-evolving field.
 
-If you have any questions about the technologies I use, such as Python, Docker, or Git, please don't hesitate to reach out. I'm here to help and share my knowledge with you.
+If you have any questions about the technologies I use, such as `Python`, `Docker`, or `Git`, please don't hesitate to reach out. I'm here to help and share my knowledge with you.
 
 <!--- ## Technologies I Use
 
