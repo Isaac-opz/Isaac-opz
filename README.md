@@ -1,10 +1,10 @@
 # Isaac-opz 💻
 
-# Welcome to my GitHub Profile! 🚀
+## Welcome to my GitHub Profile! 🚀
 
-Hello! My name is Isaac, and I want to take a moment to appreciate you for visiting my GitHub Profile. I truly value your time and interest in what I have to offer.
+Hello! My name is Isaac. I want to take a moment to **thank you** for visiting my GitHub profile. Your time and interest in my work are truly appreciated.
 
-I'm a passionate tech enthusiast who loves exploring new technologies and pushing the boundaries of what's possible in the world of coding and tech. I believe that continuous learning and growth are essential in this ever-evolving field.
+I'm a second-year Data & AI Engineering student and a passionate tech enthusiast. I love exploring new technologies and pushing the boundaries of what's possible in the world of coding and tech. I believe that continuous learning and growth are essential in this ever-evolving field.
 
 If you have any questions about the technologies I use, such as `Python`, `Docker`, or `Git`, please don't hesitate to reach out. I'm here to help and share my knowledge with you.
 
@@ -18,11 +18,11 @@ Feel free to reach out if you have any questions about these technologies or nee
 
 ## My Stats
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-opz&show_icons=true&theme=merko&title_color=1DB954&icon_color=1DB954&border_radius=9&border_color=1DB954)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-opz&show_icons=true&theme=transparent&title_color=1DB954&icon_color=1DB954&border_radius=9&border_color=1DB954&text_color=black&show_icons=true&count_private=true&text_bold=true)
 
 ## Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-opz&theme=merko&title_color=1DB954&border_radius=9&border_color=1DB954)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-opz&theme=transparent&title_color=1DB954&border_radius=9&border_color=1DB954&text_color=black)
 
 <!--- You can find me on [LinkedIn](https://www.linkedin.com/in/isaac-opz) and [Twitter](https://twitter.com/isaac_opz). Let's connect and collaborate on exciting projects! --->
 
