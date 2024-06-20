@@ -18,11 +18,11 @@ Feel free to reach out if you have any questions about these technologies or nee
 
 ## My Stats
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-opz&show_icons=true&theme=transparent&title_color=1DB954&icon_color=1DB954&border_radius=9&border_color=1DB954&text_color=333333&show_icons=true&count_private=true&text_bold=true)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-opz&show_icons=true&theme=github_dark&title_color=1DB954&icon_color=1DB954&border_radius=9&border_color=1DB954&show_icons=true&count_private=true&text_bold=true)
 
 ## Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-opz&theme=transparent&title_color=1DB954&border_radius=9&border_color=1DB954&hide=Jupyter%20Notebook&layout=compact&text_color=333333)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-opz&theme=github_dark&title_color=1DB954&border_radius=9&border_color=1DB954&hide=Jupyter%20Notebook&layout=compact)
 
 <!--- You can find me on [LinkedIn](https://www.linkedin.com/in/isaac-opz) and [Twitter](https://twitter.com/isaac_opz). Let's connect and collaborate on exciting projects! --->
 
