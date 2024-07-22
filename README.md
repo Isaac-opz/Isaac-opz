@@ -4,7 +4,7 @@
 
 Hello! My name is Isaac. I want to take a moment to **thank you** for visiting my GitHub profile. Your time and interest in my work are truly appreciated.
 
-I'm a second-year Data & AI Engineering student and a passionate tech enthusiast. I love exploring new technologies and pushing the boundaries of what's possible in the world of coding and tech. I believe that continuous learning and growth are essential in this ever-evolving field.
+I'm a third-year Data & AI Engineering student and a passionate tech enthusiast. I love exploring new technologies and pushing the boundaries of what's possible in the world of coding and tech. I believe that continuous learning and growth are essential in this ever-evolving field.
 
 If you have any questions about the technologies I use, such as `Python`, `Docker`, or `Git`, please don't hesitate to reach out. I'm here to help and share my knowledge with you.
 
