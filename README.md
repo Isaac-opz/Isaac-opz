@@ -2,11 +2,11 @@
 
 ## Welcome to my GitHub Profile! 🚀
 
-Hello! My name is Isaac. I want to take a moment to **thank you** for visiting my GitHub profile. Your time and interest in my work are truly appreciated.
+My name is Isaac. I want to **thank you** for visiting my GitHub profile. Your time and interest in my work are truly appreciated.
 
 I'm a third-year Data & AI Engineering student and a passionate tech enthusiast. I love exploring new technologies and pushing the boundaries of what's possible in the world of coding and tech. I believe that continuous learning and growth are essential in this ever-evolving field.
 
-If you have any questions about the technologies I use, such as `Python`, `Docker`, or `Git`, please don't hesitate to reach out. I'm here to help and share my knowledge with you.
+If you have any questions about the technologies I use, such as `Python`, `Docker`, or `Git`, please don't hesitate to reach out. I'm here to help and share my little knowledge with you.
 
 <!--- ## Technologies I Use
 
@@ -14,7 +14,7 @@ If you have any questions about the technologies I use, such as `Python`, `Docke
 - Docker 🐳: Containerization is a game-changer for deploying and managing applications.
 - Git 🌳: Version control is essential for collaborative development and keeping track of changes.--->
 
-Feel free to reach out if you have any questions about these technologies or need help with anything else!
+Feel free to reach out if you have any questions or need help with anything else!
 
 ## My Stats
 
