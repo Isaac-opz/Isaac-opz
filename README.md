@@ -1,12 +1,13 @@
 # Isaac-opz 💻
 
-## Welcome to my GitHub Profile! 🚀
+## Welcome
 
-My name is Isaac. I want to **thank you** for visiting my GitHub profile. Your time and interest in my work are truly appreciated.
+My name is Isaac. Thanks for taking your time on reading my GitHub profile.
 
-I'm a third-year Data & AI Engineering student and a passionate tech enthusiast. I love exploring new technologies and pushing the boundaries of what's possible in the world of coding and tech. I believe that continuous learning and growth are essential in this ever-evolving field.
+I'm a last year Data & AI Engineering student and a passionate tech enthusiast. I love exploring new technologies and pushing the boundaries of what's possible in the world of coding and tech. I believe that continuous learning and growth are essential in this ever-evolving field.
 
-If you have any questions about the technologies I use, such as `Python`, `Docker`, or `Git`, please don't hesitate to reach out. I'm here to help and share my little knowledge with you.
+<!-- If you have any questions about the technologies I use, such as `Python`, `Docker`, or `Git`, please don't hesitate to reach out. --->
+I'm happy to help and share my knowledge with you so don't hesitate to reach out :) 
 
 <!--- ## Technologies I Use
 
@@ -14,21 +15,19 @@ If you have any questions about the technologies I use, such as `Python`, `Docke
 - Docker 🐳: Containerization is a game-changer for deploying and managing applications.
 - Git 🌳: Version control is essential for collaborative development and keeping track of changes.--->
 
-Feel free to reach out if you have any questions or need help with anything else!
-
-## My Stats
+<!-- ## My Stats
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-opz&show_icons=true&theme=github_dark&title_color=1DB954&icon_color=1DB954&border_radius=9&border_color=1DB954&show_icons=true&count_private=true&text_bold=true)
 
 ## Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-opz&theme=github_dark&title_color=1DB954&border_radius=9&border_color=1DB954&hide=Jupyter%20Notebook&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-opz&theme=github_dark&title_color=1DB954&border_radius=9&border_color=1DB954&hide=Jupyter%20Notebook&layout=compact) --->
 
 <!--- You can find me on [LinkedIn](https://www.linkedin.com/in/isaac-opz) and [Twitter](https://twitter.com/isaac_opz). Let's connect and collaborate on exciting projects! --->
 
 <!--- ![machine](https://i.ibb.co/LJYwTvh/Screenshot-from-2023-10-10-23-28-55.png) --->
 
-[comment]:![guayahack](https://img.shields.io/badge/member-guayahack-fedcba?style=plastic&logo=gitlab&labelColor=%23132854)](https://guayahack.co)
+[![guayahack](https://img.shields.io/badge/member-guayahack-fedcba?style=plastic&logo=gitlab&labelColor=%23132854)](https://guayahack.co)
 
 [comment]:<!radical theme, merko theme, dark theme, transparent theme>
 
