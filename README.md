@@ -1,6 +1,4 @@
-# Isaac-opz 💻
-
-## Welcome
+# 💻
 
 My name is Isaac. Thanks for taking your time on reading my GitHub profile.
 
